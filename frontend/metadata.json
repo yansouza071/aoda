@@ -1,0 +1,7 @@
+{
+  "name": "AODA - Assistente Virtual de IA Avançado",
+  "description": "Assistente virtual cognitivo com comando de voz, dashboard de vestuário feminino com fluxo de caixa, margens e estoque (calças jeans, vestidos, croppeds, saias, bermudas), simulador de orçamentos e BDI, agenda inteligente e disparos via WhatsApp/SMS.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
